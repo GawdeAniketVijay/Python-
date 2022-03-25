@@ -496,34 +496,19 @@ print(compare(1,2,1))
 print(compare(1,2,3))
 print(compare(6,5,"5"))
 '''
+'''#factorial
+n=5
+product=3
+for i in range(n):
+    product=product*(i+1)
+print(product)
 
-l1=[1,2,3,4,6,2,3,1,4]
-l1=set(dict.fromkeys(l1))
-print(l1)
+a=frozenset({"Aniket"})
+print(a)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+multiply=lambda a,b,c:a*b*c
+a=multiply(2,2,2)
+print(a)'''
 
 
 
