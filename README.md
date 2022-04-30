@@ -4,7 +4,7 @@ Python Programs
 ![image](https://user-images.githubusercontent.com/96537904/157894877-a9249569-a2b8-4eb2-9e9a-44bb95269cc1.png)
 
 
-Python is a programming language with object, module, thread and automatic memory management.
+Python is a programming language with object, module, threads and automatic memory management.
 As like we human we used marathi, hindi, english to communicate with each other just like that we used python language to communicate to 
 with computer.
 Python is one of the language that is witnessing growth and development
