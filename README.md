@@ -6,7 +6,7 @@ Python Programs
 
 Python is a programming language with object, module, threads and automatic memory management.
 As like we human we used marathi, hindi, english to communicate with each other just like that we used python language to communicate to 
-with computer.
+with computer. It only understand Binary Language means 0 and 1.
 Python is one of the language that is witnessing growth and development
 day and getting popular. There are certain reason for the same :
 Ease to use and learn :- Guido van rossum was creating python in the 1980s, he made sure to design it to be a general-purpose language. 
