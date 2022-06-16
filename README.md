@@ -12,3 +12,4 @@ day and getting popular. There are certain reason for the same :
 Ease to use and learn :- Guido van rossum was creating python in the 1980s, he made sure to design it to be a general-purpose language. 
 The benefits of pythons are that is simple and easy, portable, extensible, build-in-data structure and it is an open source.
 Python language is an interpreted language. Python runs directly from source code.
+
